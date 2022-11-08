@@ -365,10 +365,17 @@ body > .navbar-collapse a {
 	align-items: centre;
   font-weight: 600;
   margin: 5px 0px;
-  padding: 20px 15px;
+  padding: 12px 15px;
   font-size: 20px;
   font-family: "Slim-Joe";
   letter-spacing: 0;
+}
+.logo {
+	display: flex;
+	align-items:center;
+}	
+.logo i{
+	font-size: 25px;
 }
 .navbar .navbar-nav > li > a {
   padding: 10px 15px;
