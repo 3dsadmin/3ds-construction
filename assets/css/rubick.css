@@ -1000,7 +1000,7 @@ body > .navbar-collapse .nav > li > a {
   padding: 24px 0;
 }
 body > .navbar-collapse .nav > li > a:hover, body > .navbar-collapse .nav > li > a.active {
-  color: #c5a47e;
+  color: #679FD5;
 }
 body > .navbar-collapse .nav > li.social-links {
   text-align: center;
@@ -1881,7 +1881,7 @@ a:hover {
 }
 .section .responsive-background {
   position: relative;
-  background-color: #c5a47e;
+  background-color: #679FD5;
   padding: 0;
   z-index: 1;
   background-size: cover;
