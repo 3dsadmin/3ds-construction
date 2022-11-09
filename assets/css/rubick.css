@@ -88,7 +88,6 @@ body > .navbar-collapse a {
 .better-browser div {
   margin-bottom: 10px;
 }
-
 .btn {
   border-width: 2px;
   background-color: transparent;
@@ -365,7 +364,7 @@ body > .navbar-collapse a {
 	align-items: centre;
   font-weight: 600;
   margin: 5px 0px;
-  padding: 12px 15px;
+  padding: 13px 15px;
   font-size: 20px;
   font-family: "Slim-Joe";
   letter-spacing: 0;
@@ -1746,7 +1745,7 @@ a:hover {
   position: relative;
 }
 .separator-container .separator {
-  color: #c5a47e;
+  color: #679FD5;
   margin: 0 auto 1em;
   width: 11em;
 }
@@ -1755,7 +1754,7 @@ a:hover {
   width: 40%;
   content: " ";
   margin-top: 14px;
-  border: 1px solid #c5a47e;
+  border: 1px solid #679FD5;
 }
 .separator-container .separator.line-separator:before {
   float: left;
