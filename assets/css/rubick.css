@@ -726,7 +726,7 @@ body > .navbar-collapse a {
   margin-top: 10px;
 }
 .footer-big .container > hr {
-  margin-top: 10px;
+  margin-top: 50px;
 }
 .footer-big .copyright {
   margin: 10px 0px 20px;
@@ -2233,7 +2233,7 @@ a,
   background: #333;
 }
 .filter.filter-color-gold:before {
-  background: #c5a47e;
+  background: #679FD5;
 }
 .filter.filter-color-green:before {
   background: #275e4c;
@@ -2515,7 +2515,7 @@ a.carousel-control span.fa {
 .section-we-do-2 .icon {
   font-size: 75px;
   line-height: 75px;
-  color: #c5a47e;
+  color: #679FD5;
   margin-bottom: 10px;
 }
 
@@ -2966,7 +2966,7 @@ body.noscroll {
   letter-spacing: 1px;
 }
 .project-content > div .project-details .project-text h3 span {
-  color: #c5a47e;
+  color: #679FD5;
   font-size: 150%;
 }
 .project-content > div .project-details .project-text p {
@@ -2999,7 +2999,7 @@ body.noscroll {
   font-size: 50px;
 }
 .project-content .icon-close:hover {
-  color: #c5a47e;
+  color: #679FD5;
 }
 .project-content .icon-close:hover i {
   -webkit-transform: rotate(90deg);
@@ -3128,8 +3128,8 @@ body.noscroll {
   width: 120px;
 }
 .section-clients-2 .nav-text > li.active a {
-  color: #c5a47e !important;
-  border-bottom: 2px solid #c5a47e;
+  color: #679FD5 !important;
+  border-bottom: 2px solid #679FD5;
 }
 .section-clients-2 .nav-text > li.active a img:first-child {
   opacity: 0;
@@ -3323,7 +3323,7 @@ body.noscroll {
 .section-team-3 .team .member .motto {
   position: relative;
   text-transform: none;
-  color: #c5a47e;
+  color: #679FD5;
   max-width: 55%;
   margin: 0 auto;
 }
@@ -3358,7 +3358,7 @@ body.noscroll {
 
 .img-circle {
   border-radius: 50%;
-  border: 3px solid #c5a47e;
+  border: 3px solid #679FD5;
 }
 .img-circle.img-profile {
   width: 120px;
@@ -3389,7 +3389,7 @@ body.noscroll {
 }
 
 .btn-social:hover, .btn-social:active, .btn-social:focus {
-  color: #c5a47e;
+  color: #679FD5;
 }
 
 .scroller {
@@ -3408,7 +3408,7 @@ body.noscroll {
 }
 .section-numbers-1 .number, .section-numbers-2 .number, .section-numbers-3 .number {
   font-size: 40px;
-  color: #c5a47e;
+  color: #679FD5;
   font-family: "Slim-Joe", "Helvetica Neue", "Arial";
   font-weight: 400;
 }
