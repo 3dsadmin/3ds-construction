@@ -42,27 +42,27 @@
     <div class="navbar-scroll-to collapse navbar-collapse" >
       <ul class="nav navbar-nav navbar-right navbar-uppercase">
             <li>
-                <a href="" data-scroll="true" data-id="#whoWeAre"> 
+                <a class="js-scroll-trigger" href="" data-scroll="true" data-id="#whoWeAre"> 
                     À PROPOS
                 </a>
             </li>
             <li>
-                <a href="" data-scroll="true" data-id="#whoWeAre2"> 
+                <a class="js-scroll-trigger" href="" data-scroll="true" data-id="#whoWeAre2"> 
                     NOS SERVICES
                 </a>
             </li>
             <li>
-                <a href="" data-scroll="true" data-id="#team"> 
+                <a class="js-scroll-trigger" href="" data-scroll="true" data-id="#team"> 
                     NOS ENGAGEMENTS
                 </a>
             </li>
             <li>
-                <a href="" data-scroll="true" data-id="#friends"> 
+                <a class="js-scroll-trigger" href="" data-scroll="true" data-id="#friends"> 
                    COLLABORATEURS
                 </a>
             </li>
             <li>
-                <a href="" data-scroll="true" data-id="#contact"> 
+                <a class="js-scroll-trigger" href="" data-scroll="true" data-id="#contact"> 
                     Contact
                 </a>
             </li>
@@ -498,6 +498,11 @@
               <center>  © 2023 Made with &#128153; by 3DS CONSTRUCTION Team </center>
             </div>
         </div>
+		<script> type="text/javascript"  
+           $('.js-scroll-trigger').click(function() {
+    $('.navbar-collapse').collapse('hide');
+  });
+      </script>
     </footer>
 	
 	
