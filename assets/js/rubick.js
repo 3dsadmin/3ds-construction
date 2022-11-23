@@ -227,6 +227,8 @@ rubik = {
                     $('html, body').animate({
                          scrollTop: $(scroll_target).offset().top - 50
                     }, 1000);
+
+                   $('html').removeClass("nav-open")
                 }
                 
              });
