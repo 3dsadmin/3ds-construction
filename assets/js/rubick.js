@@ -229,6 +229,8 @@ rubik = {
                     }, 1000);
 
                    $('html').removeClass("nav-open")
+				    $toggle.removeClass('toggled');
+					  rubik.misc.navbar_menu_visible = 0;
                 }
                 
              });
